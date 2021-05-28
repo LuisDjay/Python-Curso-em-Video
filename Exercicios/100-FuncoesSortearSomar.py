@@ -1,6 +1,7 @@
 from random import randint
 from time import sleep
 
+
 def sorteia(lista):
     print('Sorteando 5 valores da lista:' , end='')
     for cont in range(0,5):
